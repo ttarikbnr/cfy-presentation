@@ -1,4 +1,0 @@
-sembol listesi
-julia cassandra-driver
-prime-event memory sorunlu olabilir
-redis-master degistikten sonra ip cozumlemesi
