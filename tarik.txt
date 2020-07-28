@@ -1,0 +1,24 @@
+Problem:
+	MR goruntuleri icin web tabanli hizli goruntuleme ve analiz yapacak bir urunun olmamasi.
+
+Solution: 
+	Web tabanli hizli bir cozum
+
+Key Metrics 	
+	3.5
+
+Unique Value Proposition
+	Web tabanli olmasi.
+
+Unfair Advantage
+	Custom algoritmalarin server uzerinde kosabilecegi flow based programlama altyapisi
+
+Customer Segments
+	Doktorlar ve arastirma gorevlileri (Meraklisina 2020 model:D)
+
+Cost Structure
+	Makale
+	Kampanya
+
+Revenue Streams
+	
